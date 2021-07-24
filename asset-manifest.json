@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/textileshop/static/css/main.c126c545.chunk.css",
-    "main.js": "/textileshop/static/js/main.632e5231.chunk.js",
-    "main.js.map": "/textileshop/static/js/main.632e5231.chunk.js.map",
+    "main.css": "/textileshop/static/css/main.bceb2704.chunk.css",
+    "main.js": "/textileshop/static/js/main.b13bd8ba.chunk.js",
+    "main.js.map": "/textileshop/static/js/main.b13bd8ba.chunk.js.map",
     "runtime-main.js": "/textileshop/static/js/runtime-main.51cfce87.js",
     "runtime-main.js.map": "/textileshop/static/js/runtime-main.51cfce87.js.map",
     "static/css/2.d45d6843.chunk.css": "/textileshop/static/css/2.d45d6843.chunk.css",
-    "static/js/2.f818c12a.chunk.js": "/textileshop/static/js/2.f818c12a.chunk.js",
-    "static/js/2.f818c12a.chunk.js.map": "/textileshop/static/js/2.f818c12a.chunk.js.map",
+    "static/js/2.fe517a3d.chunk.js": "/textileshop/static/js/2.fe517a3d.chunk.js",
+    "static/js/2.fe517a3d.chunk.js.map": "/textileshop/static/js/2.fe517a3d.chunk.js.map",
     "static/js/3.889e0f75.chunk.js": "/textileshop/static/js/3.889e0f75.chunk.js",
     "static/js/3.889e0f75.chunk.js.map": "/textileshop/static/js/3.889e0f75.chunk.js.map",
     "index.html": "/textileshop/index.html",
     "static/css/2.d45d6843.chunk.css.map": "/textileshop/static/css/2.d45d6843.chunk.css.map",
-    "static/css/main.c126c545.chunk.css.map": "/textileshop/static/css/main.c126c545.chunk.css.map",
-    "static/js/2.f818c12a.chunk.js.LICENSE.txt": "/textileshop/static/js/2.f818c12a.chunk.js.LICENSE.txt",
+    "static/css/main.bceb2704.chunk.css.map": "/textileshop/static/css/main.bceb2704.chunk.css.map",
+    "static/js/2.fe517a3d.chunk.js.LICENSE.txt": "/textileshop/static/js/2.fe517a3d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/textileshop/static/media/headerpic.23184964.jpg",
     "static/media/fashion1.65606932.jpg": "/textileshop/static/media/fashion1.65606932.jpg",
     "static/media/fashion2.05436df1.jpg": "/textileshop/static/media/fashion2.05436df1.jpg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.51cfce87.js",
     "static/css/2.d45d6843.chunk.css",
-    "static/js/2.f818c12a.chunk.js",
-    "static/css/main.c126c545.chunk.css",
-    "static/js/main.632e5231.chunk.js"
+    "static/js/2.fe517a3d.chunk.js",
+    "static/css/main.bceb2704.chunk.css",
+    "static/js/main.b13bd8ba.chunk.js"
   ]
 }
