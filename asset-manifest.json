@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/textileshop/static/css/main.b49006d9.chunk.css",
-    "main.js": "/textileshop/static/js/main.06cd00ee.chunk.js",
-    "main.js.map": "/textileshop/static/js/main.06cd00ee.chunk.js.map",
+    "main.css": "/textileshop/static/css/main.43f0909a.chunk.css",
+    "main.js": "/textileshop/static/js/main.5f6e19ae.chunk.js",
+    "main.js.map": "/textileshop/static/js/main.5f6e19ae.chunk.js.map",
     "runtime-main.js": "/textileshop/static/js/runtime-main.91260a5c.js",
     "runtime-main.js.map": "/textileshop/static/js/runtime-main.91260a5c.js.map",
     "static/css/2.41341f2b.chunk.css": "/textileshop/static/css/2.41341f2b.chunk.css",
@@ -12,16 +12,16 @@
     "static/js/3.50045518.chunk.js.map": "/textileshop/static/js/3.50045518.chunk.js.map",
     "index.html": "/textileshop/index.html",
     "static/css/2.41341f2b.chunk.css.map": "/textileshop/static/css/2.41341f2b.chunk.css.map",
-    "static/css/main.b49006d9.chunk.css.map": "/textileshop/static/css/main.b49006d9.chunk.css.map",
+    "static/css/main.43f0909a.chunk.css.map": "/textileshop/static/css/main.43f0909a.chunk.css.map",
     "static/js/2.764abb9a.chunk.js.LICENSE.txt": "/textileshop/static/js/2.764abb9a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/textileshop/static/media/headerpic.23184964.jpg",
     "static/media/fashion1.65606932.jpg": "/textileshop/static/media/fashion1.65606932.jpg",
     "static/media/fashion2.05436df1.jpg": "/textileshop/static/media/fashion2.05436df1.jpg",
     "static/media/fashion3.c99b9b98.jpg": "/textileshop/static/media/fashion3.c99b9b98.jpg",
-    "static/media/headerBG.f2e212da.jpg": "/textileshop/static/media/headerBG.f2e212da.jpg",
     "static/media/hoodie1.6140035a.jpeg": "/textileshop/static/media/hoodie1.6140035a.jpeg",
     "static/media/hoodie2.cd27fb8a.jpeg": "/textileshop/static/media/hoodie2.cd27fb8a.jpeg",
     "static/media/hoodie3.d5c36bb7.jpeg": "/textileshop/static/media/hoodie3.d5c36bb7.jpeg",
+    "static/media/hoodiespage.214780fb.jpg": "/textileshop/static/media/hoodiespage.214780fb.jpg",
     "static/media/logo.8643fd30.png": "/textileshop/static/media/logo.8643fd30.png",
     "static/media/styles.css": "/textileshop/static/media/revicons.e8746a62.woff",
     "static/media/shorts1.2c19c9fe.jpeg": "/textileshop/static/media/shorts1.2c19c9fe.jpeg",
@@ -30,25 +30,28 @@
     "static/media/shorts4.24debb19.jpeg": "/textileshop/static/media/shorts4.24debb19.jpeg",
     "static/media/shorts5.b92c9cb9.jpeg": "/textileshop/static/media/shorts5.b92c9cb9.jpeg",
     "static/media/shorts6.e25ac4d1.jpeg": "/textileshop/static/media/shorts6.e25ac4d1.jpeg",
+    "static/media/shortspage.3a944915.jpg": "/textileshop/static/media/shortspage.3a944915.jpg",
     "static/media/track1.f6f10972.jpeg": "/textileshop/static/media/track1.f6f10972.jpeg",
     "static/media/track2.a8527857.jpeg": "/textileshop/static/media/track2.a8527857.jpeg",
     "static/media/track3.ce93ac21.jpeg": "/textileshop/static/media/track3.ce93ac21.jpeg",
     "static/media/track4.a44bf45a.jpeg": "/textileshop/static/media/track4.a44bf45a.jpeg",
     "static/media/track5.8237791d.jpeg": "/textileshop/static/media/track5.8237791d.jpeg",
     "static/media/track6.7ff21a02.jpeg": "/textileshop/static/media/track6.7ff21a02.jpeg",
+    "static/media/trackspage.e9954953.jpg": "/textileshop/static/media/trackspage.e9954953.jpg",
     "static/media/tshirt1.c8bcc1fe.jpeg": "/textileshop/static/media/tshirt1.c8bcc1fe.jpeg",
     "static/media/tshirt2.e4d3fe6d.jpeg": "/textileshop/static/media/tshirt2.e4d3fe6d.jpeg",
     "static/media/tshirt3.57b52872.jpeg": "/textileshop/static/media/tshirt3.57b52872.jpeg",
     "static/media/tshirt4.164f11c1.jpeg": "/textileshop/static/media/tshirt4.164f11c1.jpeg",
     "static/media/tshirt5.86cf2308.jpeg": "/textileshop/static/media/tshirt5.86cf2308.jpeg",
     "static/media/tshirt6.f4f9adfc.jpeg": "/textileshop/static/media/tshirt6.f4f9adfc.jpeg",
-    "static/media/tshirt7.6c58cf59.jpeg": "/textileshop/static/media/tshirt7.6c58cf59.jpeg"
+    "static/media/tshirt7.6c58cf59.jpeg": "/textileshop/static/media/tshirt7.6c58cf59.jpeg",
+    "static/media/tshirtpage.cd724feb.jpg": "/textileshop/static/media/tshirtpage.cd724feb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.91260a5c.js",
     "static/css/2.41341f2b.chunk.css",
     "static/js/2.764abb9a.chunk.js",
-    "static/css/main.b49006d9.chunk.css",
-    "static/js/main.06cd00ee.chunk.js"
+    "static/css/main.43f0909a.chunk.css",
+    "static/js/main.5f6e19ae.chunk.js"
   ]
 }
