@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/textileshop/static/css/main.66cef5e4.chunk.css",
-    "main.js": "/textileshop/static/js/main.f3f76484.chunk.js",
-    "main.js.map": "/textileshop/static/js/main.f3f76484.chunk.js.map",
+    "main.js": "/textileshop/static/js/main.a8d905d9.chunk.js",
+    "main.js.map": "/textileshop/static/js/main.a8d905d9.chunk.js.map",
     "runtime-main.js": "/textileshop/static/js/runtime-main.df69f001.js",
     "runtime-main.js.map": "/textileshop/static/js/runtime-main.df69f001.js.map",
-    "static/css/2.41341f2b.chunk.css": "/textileshop/static/css/2.41341f2b.chunk.css",
-    "static/js/2.ad8eb2c4.chunk.js": "/textileshop/static/js/2.ad8eb2c4.chunk.js",
-    "static/js/2.ad8eb2c4.chunk.js.map": "/textileshop/static/js/2.ad8eb2c4.chunk.js.map",
+    "static/css/2.85e9ebb0.chunk.css": "/textileshop/static/css/2.85e9ebb0.chunk.css",
+    "static/js/2.35206ea7.chunk.js": "/textileshop/static/js/2.35206ea7.chunk.js",
+    "static/js/2.35206ea7.chunk.js.map": "/textileshop/static/js/2.35206ea7.chunk.js.map",
     "static/js/3.f6811ed9.chunk.js": "/textileshop/static/js/3.f6811ed9.chunk.js",
     "static/js/3.f6811ed9.chunk.js.map": "/textileshop/static/js/3.f6811ed9.chunk.js.map",
     "index.html": "/textileshop/index.html",
-    "static/css/2.41341f2b.chunk.css.map": "/textileshop/static/css/2.41341f2b.chunk.css.map",
+    "static/css/2.85e9ebb0.chunk.css.map": "/textileshop/static/css/2.85e9ebb0.chunk.css.map",
     "static/css/main.66cef5e4.chunk.css.map": "/textileshop/static/css/main.66cef5e4.chunk.css.map",
-    "static/js/2.ad8eb2c4.chunk.js.LICENSE.txt": "/textileshop/static/js/2.ad8eb2c4.chunk.js.LICENSE.txt",
+    "static/js/2.35206ea7.chunk.js.LICENSE.txt": "/textileshop/static/js/2.35206ea7.chunk.js.LICENSE.txt",
     "static/media/App.css": "/textileshop/static/media/headerpic.23184964.jpg",
     "static/media/bubblefabric.e7faf9cb.jpeg": "/textileshop/static/media/bubblefabric.e7faf9cb.jpeg",
     "static/media/fashion1.65606932.jpg": "/textileshop/static/media/fashion1.65606932.jpg",
@@ -24,6 +24,7 @@
     "static/media/hoodie3.d5c36bb7.jpeg": "/textileshop/static/media/hoodie3.d5c36bb7.jpeg",
     "static/media/hoodiespage.214780fb.jpg": "/textileshop/static/media/hoodiespage.214780fb.jpg",
     "static/media/logo.8643fd30.png": "/textileshop/static/media/logo.8643fd30.png",
+    "static/media/loopknitraised.c8349f37.jpeg": "/textileshop/static/media/loopknitraised.c8349f37.jpeg",
     "static/media/nykprobrushed.9712174b.jpeg": "/textileshop/static/media/nykprobrushed.9712174b.jpeg",
     "static/media/styles.css": "/textileshop/static/media/revicons.e8746a62.woff",
     "static/media/shorts1.2c19c9fe.jpeg": "/textileshop/static/media/shorts1.2c19c9fe.jpeg",
@@ -51,9 +52,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.df69f001.js",
-    "static/css/2.41341f2b.chunk.css",
-    "static/js/2.ad8eb2c4.chunk.js",
+    "static/css/2.85e9ebb0.chunk.css",
+    "static/js/2.35206ea7.chunk.js",
     "static/css/main.66cef5e4.chunk.css",
-    "static/js/main.f3f76484.chunk.js"
+    "static/js/main.a8d905d9.chunk.js"
   ]
 }
