@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/textileshop/static/css/main.8fc802af.chunk.css",
-    "main.js": "/textileshop/static/js/main.5609e10e.chunk.js",
-    "main.js.map": "/textileshop/static/js/main.5609e10e.chunk.js.map",
+    "main.css": "/textileshop/static/css/main.4f499887.chunk.css",
+    "main.js": "/textileshop/static/js/main.781fa580.chunk.js",
+    "main.js.map": "/textileshop/static/js/main.781fa580.chunk.js.map",
     "runtime-main.js": "/textileshop/static/js/runtime-main.df69f001.js",
     "runtime-main.js.map": "/textileshop/static/js/runtime-main.df69f001.js.map",
     "static/css/2.41341f2b.chunk.css": "/textileshop/static/css/2.41341f2b.chunk.css",
-    "static/js/2.0631adc5.chunk.js": "/textileshop/static/js/2.0631adc5.chunk.js",
-    "static/js/2.0631adc5.chunk.js.map": "/textileshop/static/js/2.0631adc5.chunk.js.map",
+    "static/js/2.b4497c8b.chunk.js": "/textileshop/static/js/2.b4497c8b.chunk.js",
+    "static/js/2.b4497c8b.chunk.js.map": "/textileshop/static/js/2.b4497c8b.chunk.js.map",
     "static/js/3.f6811ed9.chunk.js": "/textileshop/static/js/3.f6811ed9.chunk.js",
     "static/js/3.f6811ed9.chunk.js.map": "/textileshop/static/js/3.f6811ed9.chunk.js.map",
     "index.html": "/textileshop/index.html",
     "static/css/2.41341f2b.chunk.css.map": "/textileshop/static/css/2.41341f2b.chunk.css.map",
-    "static/css/main.8fc802af.chunk.css.map": "/textileshop/static/css/main.8fc802af.chunk.css.map",
-    "static/js/2.0631adc5.chunk.js.LICENSE.txt": "/textileshop/static/js/2.0631adc5.chunk.js.LICENSE.txt",
+    "static/css/main.4f499887.chunk.css.map": "/textileshop/static/css/main.4f499887.chunk.css.map",
+    "static/js/2.b4497c8b.chunk.js.LICENSE.txt": "/textileshop/static/js/2.b4497c8b.chunk.js.LICENSE.txt",
     "static/media/Importedmilangescuba.edd90408.jpeg": "/textileshop/static/media/Importedmilangescuba.edd90408.jpeg",
     "static/media/App.css": "/textileshop/static/media/headerpic.23184964.jpg",
     "static/media/bubblefabric.e7faf9cb.jpeg": "/textileshop/static/media/bubblefabric.e7faf9cb.jpeg",
@@ -59,8 +59,8 @@
   "entrypoints": [
     "static/js/runtime-main.df69f001.js",
     "static/css/2.41341f2b.chunk.css",
-    "static/js/2.0631adc5.chunk.js",
-    "static/css/main.8fc802af.chunk.css",
-    "static/js/main.5609e10e.chunk.js"
+    "static/js/2.b4497c8b.chunk.js",
+    "static/css/main.4f499887.chunk.css",
+    "static/js/main.781fa580.chunk.js"
   ]
 }
