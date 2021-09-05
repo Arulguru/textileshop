@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/textileshop/static/css/main.5c237c1e.chunk.css",
-    "main.js": "/textileshop/static/js/main.c40cc435.chunk.js",
-    "main.js.map": "/textileshop/static/js/main.c40cc435.chunk.js.map",
+    "main.js": "/textileshop/static/js/main.5965f747.chunk.js",
+    "main.js.map": "/textileshop/static/js/main.5965f747.chunk.js.map",
     "runtime-main.js": "/textileshop/static/js/runtime-main.df69f001.js",
     "runtime-main.js.map": "/textileshop/static/js/runtime-main.df69f001.js.map",
     "static/css/2.41341f2b.chunk.css": "/textileshop/static/css/2.41341f2b.chunk.css",
@@ -25,7 +25,7 @@
     "static/media/hoodie1.6140035a.jpeg": "/textileshop/static/media/hoodie1.6140035a.jpeg",
     "static/media/hoodie2.cd27fb8a.jpeg": "/textileshop/static/media/hoodie2.cd27fb8a.jpeg",
     "static/media/hoodie3.d5c36bb7.jpeg": "/textileshop/static/media/hoodie3.d5c36bb7.jpeg",
-    "static/media/hoodiespage.214780fb.jpg": "/textileshop/static/media/hoodiespage.214780fb.jpg",
+    "static/media/hoodiespage.7b564d9e.jpeg": "/textileshop/static/media/hoodiespage.7b564d9e.jpeg",
     "static/media/logo.8643fd30.png": "/textileshop/static/media/logo.8643fd30.png",
     "static/media/loopknitraised.c8349f37.jpeg": "/textileshop/static/media/loopknitraised.c8349f37.jpeg",
     "static/media/loopknitraised2.5a6d64c2.jpeg": "/textileshop/static/media/loopknitraised2.5a6d64c2.jpeg",
@@ -61,6 +61,6 @@
     "static/css/2.41341f2b.chunk.css",
     "static/js/2.b4497c8b.chunk.js",
     "static/css/main.5c237c1e.chunk.css",
-    "static/js/main.c40cc435.chunk.js"
+    "static/js/main.5965f747.chunk.js"
   ]
 }
